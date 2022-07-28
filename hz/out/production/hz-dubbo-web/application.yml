@@ -1,5 +1,0 @@
-dubbo:
-  application:
-    name: dubbo_User_web
-  registry.address: zookeeper://101.43.232.222:2181
-  scan.base-packages: com.dahua.hzcommon.service.impl
